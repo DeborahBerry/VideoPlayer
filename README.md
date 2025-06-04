@@ -26,4 +26,4 @@ This project plays a local video file with customized player controls and a mode
   
 ## 📌 Notes
 
-**🙋‍♂️ If you'd like to contribute or improve the app, feel free to fork or submit a pull request.**
+**🤝 If you'd like to contribute or improve the app, feel free to fork or submit a pull request.**
