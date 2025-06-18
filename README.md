@@ -20,8 +20,8 @@ This project plays a local video file with customized player controls and a mode
 
 ## 📦 Requirements
 
-- 🖥 Works offline — just open the HTML file locally.
-- 🌍 No build tools or dependencies required.
+- 🖥 Works offline — just open the HTML file locally
+- 🌍 No build tools or dependencies required
 - 🔧 Perfect for demos, school projects, or learning frontend dev
   
 ## 📌 Notes
